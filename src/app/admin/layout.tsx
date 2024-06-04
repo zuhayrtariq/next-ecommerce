@@ -8,7 +8,7 @@ export default function AdminLayout({children} : Readonly<{children: ReactNode}>
             Dashboard
         </NavLink>
         <NavLink href={'/admin/products'}>
-            Dashboard
+            Products
         </NavLink>
         <NavLink href={'/admin/customers'}>
             Customers
